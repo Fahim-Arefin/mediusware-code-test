@@ -2,7 +2,7 @@
 
 ## 🌐 [Live Site](https://search-numbers.netlify.app/)
 
-## Problem 1: Task Filtering
+## Problem 1:
 
 ### Features
 
@@ -10,7 +10,7 @@
 - **Filtering:** Provides the ability to filter tasks by "All," "Active," and "Completed."
 - **Sorting:** Sorts tasks with active tasks first, followed by completed tasks, and then others.
 
-## React Bootstrap Modal Challenge Problem 2
+## Problem 2:
 
 This React application showcases the utilization of Bootstrap modal dialogs. The program retrieves contact information from an API and displays it within distinct modals, responding to user interactions.
 
